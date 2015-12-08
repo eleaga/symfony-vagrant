@@ -1,0 +1,1 @@
+{"nfs":{"/vagrant":{"type":"nfs","guestpath":"/vagrant","hostpath":"/Library/WebServer/Documents/phansible_Synfony","disabled":false,"map_uid":501,"map_gid":0,"nfs_udp":true,"nfs_version":3,"uuid":"1788141249"}}}
